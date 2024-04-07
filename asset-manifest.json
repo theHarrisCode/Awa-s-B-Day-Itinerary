@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.7848e583.css",
-    "main.js": "/static/js/main.59ff0197.js",
-    "static/js/453.32adb107.chunk.js": "/static/js/453.32adb107.chunk.js",
-    "static/media/bubble-background.png": "/static/media/bubble-background.b7c5f8ad269ed4420491.png",
-    "static/media/paint.png": "/static/media/paint.81a12cda8cb56259c8bf.png",
-    "static/media/pajamas.png": "/static/media/pajamas.baa45e71c501bf423dd1.png",
-    "static/media/deep-blue-lipstick.png": "/static/media/deep-blue-lipstick.a68303af65f626efb9f8.png",
-    "static/media/car2.png": "/static/media/car2.1d01e123d54838d31949.png",
-    "static/media/car1.png": "/static/media/car1.dd832e0782ba37911448.png",
-    "static/media/teal.png": "/static/media/teal.00fbebe08dd99731dbe3.png",
-    "index.html": "/index.html",
-    "main.7848e583.css.map": "/static/css/main.7848e583.css.map",
-    "main.59ff0197.js.map": "/static/js/main.59ff0197.js.map",
-    "453.32adb107.chunk.js.map": "/static/js/453.32adb107.chunk.js.map"
+    "main.css": "/Awa-s-B-Day-Itinerary/static/css/main.720ce357.css",
+    "main.js": "/Awa-s-B-Day-Itinerary/static/js/main.72a0ba08.js",
+    "static/js/453.32adb107.chunk.js": "/Awa-s-B-Day-Itinerary/static/js/453.32adb107.chunk.js",
+    "static/media/bubble-background.png": "/Awa-s-B-Day-Itinerary/static/media/bubble-background.b7c5f8ad269ed4420491.png",
+    "static/media/paint.png": "/Awa-s-B-Day-Itinerary/static/media/paint.81a12cda8cb56259c8bf.png",
+    "static/media/pajamas.png": "/Awa-s-B-Day-Itinerary/static/media/pajamas.baa45e71c501bf423dd1.png",
+    "static/media/deep-blue-lipstick.png": "/Awa-s-B-Day-Itinerary/static/media/deep-blue-lipstick.a68303af65f626efb9f8.png",
+    "static/media/car2.png": "/Awa-s-B-Day-Itinerary/static/media/car2.1d01e123d54838d31949.png",
+    "static/media/car1.png": "/Awa-s-B-Day-Itinerary/static/media/car1.dd832e0782ba37911448.png",
+    "static/media/teal.png": "/Awa-s-B-Day-Itinerary/static/media/teal.00fbebe08dd99731dbe3.png",
+    "index.html": "/Awa-s-B-Day-Itinerary/index.html",
+    "main.720ce357.css.map": "/Awa-s-B-Day-Itinerary/static/css/main.720ce357.css.map",
+    "main.72a0ba08.js.map": "/Awa-s-B-Day-Itinerary/static/js/main.72a0ba08.js.map",
+    "453.32adb107.chunk.js.map": "/Awa-s-B-Day-Itinerary/static/js/453.32adb107.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7848e583.css",
-    "static/js/main.59ff0197.js"
+    "static/css/main.720ce357.css",
+    "static/js/main.72a0ba08.js"
   ]
 }
